@@ -40,6 +40,17 @@ body {background-color: #CCC;}
     padding:10px;
     border-top: 1px solid #CCC;
 }
+
+.article2{
+  list-style-type: none;
+  padding:2px;
+  border-top: 1px solid #CCC;
+}
+
 .article:first-child {
+    border-top:none;
+}
+
+.article2:first-child {
     border-top:none;
 }
